@@ -1,0 +1,6 @@
+{
+  "name": "Alkánok Kémiai Játékbirodalom",
+  "description": "5 interaktív kémiai oktatójáték a líceumi alkánok leckék tanóra végi 5-6 perces interaktív összefoglalására.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
